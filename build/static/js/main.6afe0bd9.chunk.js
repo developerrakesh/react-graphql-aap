@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-graphql-aap"]=this["webpackJsonpreact-graphql-aap"]||[]).push([[0],{11:function(t,n,e){"use strict";e.r(n);e(1);var r=e(3),a=e.n(r),c=(e(8),e(9),e(0));var p=function(){return Object(c.jsx)("h1",{children:"Graphql"})};a.a.render(Object(c.jsx)(p,{}),document.getElementById("root"))},8:function(t,n,e){},9:function(t,n,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.6afe0bd9.chunk.js.map
