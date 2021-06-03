@@ -17,3 +17,17 @@ export const GET_POKEMONS = gql`
         }
     }
 `;
+
+export const GET_SINGLE = gql`
+    query pokemon($id: String) {
+        pokemon(id: $id) {
+            name
+            weight {
+                maximum
+            }
+            height {
+                maximum
+            }
+        }
+    }
+`;
