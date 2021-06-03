@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-graphql-app/static/css/main.8fc98240.chunk.css",
+    "main.js": "/react-graphql-app/static/js/main.359564e8.chunk.js",
+    "main.js.map": "/react-graphql-app/static/js/main.359564e8.chunk.js.map",
+    "runtime-main.js": "/react-graphql-app/static/js/runtime-main.e8c0e0db.js",
+    "runtime-main.js.map": "/react-graphql-app/static/js/runtime-main.e8c0e0db.js.map",
+    "static/js/2.d7141397.chunk.js": "/react-graphql-app/static/js/2.d7141397.chunk.js",
+    "static/js/2.d7141397.chunk.js.map": "/react-graphql-app/static/js/2.d7141397.chunk.js.map",
+    "index.html": "/react-graphql-app/index.html",
+    "static/css/main.8fc98240.chunk.css.map": "/react-graphql-app/static/css/main.8fc98240.chunk.css.map",
+    "static/js/2.d7141397.chunk.js.LICENSE.txt": "/react-graphql-app/static/js/2.d7141397.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8c0e0db.js",
+    "static/js/2.d7141397.chunk.js",
+    "static/css/main.8fc98240.chunk.css",
+    "static/js/main.359564e8.chunk.js"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "react-graphql-app",
-  "homepage": "https://developerrakesh.github.io/react-graphql-aap",
+  "homepage": "https://developerrakesh.github.io/react-graphql-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -116,7 +116,7 @@
       "<rootDir>/src/**/*.{spec,test}.{js,jsx,ts,tsx}"
     ],
     "testEnvironment": "jsdom",
-    "testRunner": "C:\\Users\\rakkuma\\Personal\\React\\react-graphql-aap\\node_modules\\jest-circus\\runner.js",
+    "testRunner": "C:\\Users\\rakkuma\\Personal\\React\\react-graphql-app\\node_modules\\jest-circus\\runner.js",
     "transform": {
       "^.+\\.(js|jsx|mjs|cjs|ts|tsx)$": "<rootDir>/config/jest/babelTransform.js",
       "^.+\\.css$": "<rootDir>/config/jest/cssTransform.js",
