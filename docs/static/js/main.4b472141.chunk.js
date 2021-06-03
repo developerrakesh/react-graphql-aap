@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-graphql-aap"]=this["webpackJsonpreact-graphql-aap"]||[]).push([[0],{22:function(e,t,n){},23:function(e,t,n){},28:function(e,t,n){"use strict";n.r(t);n(4);var a=n(9),r=n.n(a),c=(n(22),n(23),n(16)),p=n(31),o=n(5);var i=function(){var e=new c.a({uri:"https://graphql-pokemon2.vercel.app/"});return Object(o.jsx)(p.a,{client:e,children:"hello"})};r.a.render(Object(o.jsx)(i,{}),document.getElementById("root"))}},[[28,1,2]]]);
-//# sourceMappingURL=main.4b472141.chunk.js.map
